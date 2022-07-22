@@ -3,4 +3,4 @@ pandas==1.4.3
 mysql.connector == 2.2.9
 matplotlib == 3.5.1
 Pillow
-PIL == 9.2.0
+
